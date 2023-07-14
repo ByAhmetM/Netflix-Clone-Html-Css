@@ -326,7 +326,7 @@ small {
         padding: 3px 10px;
     }
 
-    .satir:nth-child(2n) {
+    .row:nth-child(2n) {
         flex-direction: column-reverse;
     }
 
