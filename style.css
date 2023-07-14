@@ -330,4 +330,14 @@ small {
         flex-direction: column-reverse;
     }
 
+    .footer-content {
+        padding: 8px 15%;
+
+    }
+
+    .col-content {
+        flex-direction: column;
+        gap: 30px;
+    }
+
 }
